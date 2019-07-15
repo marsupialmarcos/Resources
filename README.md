@@ -3,6 +3,6 @@
 
 
 - [SICP](https://github.com/marsupialmarcos/Resources/blob/master/Structure%20and%20Interpretation%20of%20Computer%20Programs.pdf) for js
-- [VisuAlgo](https://visualgo.net)
+- [VisuAlgo](https://visualgo.net) a tool for visualizing Algorithms and Data Structures
 
-- [Javascript-Visualizer](https://tylermcginnis.com/javascript-visualizer/) A tool for visualizing Execution Context, Hoisting, Closures, and Scopes in JavaScript
+- [Javascript-Visualizer](https://tylermcginnis.com/javascript-visualizer/) a tool for visualizing Execution Context, Hoisting, Closures, and Scopes in JavaScript

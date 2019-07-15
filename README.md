@@ -7,4 +7,14 @@
 
 - [Javascript-Visualizer](https://tylermcginnis.com/javascript-visualizer/) - A tool for visualizing Execution Context, Hoisting, Closures, and Scopes in JavaScript
 
-- [The Event Loop, the Callback Queue](http://latentflip.com) - A tool for visualizing the Event Loop and Callback Queue
+- [The Event Loop, the Callback Queue](http://latentflip.com/loupe/) - A tool for visualizing the Event Loop and Callback Queue
+
+- [Node School](https://nodeschool.io/) - Open source workshops that teach web software skills. Do them on your own or at a workshop nearby.
+
+- []
+
+- [Node Red](https://nodered.org/) - Node-RED provides a browser-based editor that makes it easy to wire together flows using the wide range of nodes that can be deployed to its runtime in a single-click.
+
+- [Johny-Five](http://johnny-five.io/) - The Robot 
+
+

@@ -2,4 +2,4 @@
 
 @octocat :+1:This PR looks great - it's ready to merge! :shipit:
 
-This site was built using [GitHub Pages](https://pages.github.com/).
+[SICP](https://github.com/marsupialmarcos/Resources/blob/master/Structure%20and%20Interpretation%20of%20Computer%20Programs.pdf).

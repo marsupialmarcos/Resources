@@ -6,3 +6,5 @@
 - [VisuAlgo](https://visualgo.net) a tool for visualizing Algorithms and Data Structures
 
 - [Javascript-Visualizer](https://tylermcginnis.com/javascript-visualizer/) a tool for visualizing Execution Context, Hoisting, Closures, and Scopes in JavaScript
+
+- [The Event Loop, the Callback Queue](http://latentflip.com) a tool for visualizing the Event Loop and Callback Queue

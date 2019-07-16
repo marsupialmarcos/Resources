@@ -5,6 +5,8 @@
 - [SICP](https://github.com/marsupialmarcos/Resources/blob/master/Structure%20and%20Interpretation%20of%20Computer%20Programs.pdf) - Structure and Interpretation of Computer Programs for JS
 - [VisuAlgo](https://visualgo.net) - A tool for visualizing Algorithms and Data Structures
 
+- [The Algorithm Design Manual](https://github.com/marsupialmarcos/Resources/blob/master/The%20Algorithm%20Design%20Manual.pdf) - Skiena's Algorithm Design Manual
+
 - [Javascript-Visualizer](https://tylermcginnis.com/javascript-visualizer/) - A tool for visualizing Execution Context, Hoisting, Closures, and Scopes in JavaScript
 
 - [The Event Loop, the Callback Queue](http://latentflip.com/loupe/) - A tool for visualizing the Event Loop and Callback Queue
@@ -21,4 +23,4 @@
 
 - [Design A Parking Lot](https://www.educative.io/collection/page/5668639101419520/5692201761767424/5770234338213888) - Design A Parking Lot
 
-- [Design A Library Management System](https://www.educative.io/collection/page/5668639101419520/5692201761767424/5636470266134528)
+- [Design A Library Management System](https://www.educative.io/collection/page/5668639101419520/5692201761767424/5636470266134528) - Design a Library Management System

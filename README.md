@@ -21,5 +21,4 @@
 
 - [Design A Parking Lot](https://www.educative.io/collection/page/5668639101419520/5692201761767424/5770234338213888) - Design A Parking Lot
 
-- [Design ALibrary Management System](https://www.educative.io/collection/page/5668639101419520/5692201761767424/5636470266134528)
-
+- [Design A Library Management System](https://www.educative.io/collection/page/5668639101419520/5692201761767424/5636470266134528)

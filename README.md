@@ -2,7 +2,7 @@
 
 - [Javascript.info](https://javascript.info/) - The Modern JavaScript Tutorial
 
-- [SICP](https://github.com/marsupialmarcos/Resources/blob/master/Structure%20and%20Interpretation%20of%20Computer%20Programs.pdf) - Structure and Interpretation of Computer Programs for js
+- [SICP](https://github.com/marsupialmarcos/Resources/blob/master/Structure%20and%20Interpretation%20of%20Computer%20Programs.pdf) - Structure and Interpretation of Computer Programs for JS
 - [VisuAlgo](https://visualgo.net) - A tool for visualizing Algorithms and Data Structures
 
 - [Javascript-Visualizer](https://tylermcginnis.com/javascript-visualizer/) - A tool for visualizing Execution Context, Hoisting, Closures, and Scopes in JavaScript

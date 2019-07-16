@@ -6,7 +6,7 @@
 
 # Visualizing
 
-- [Javascript-Visualizer](https://tylermcginnis.com/javascript-visualizer/) - A tool for visualizing Execution Context, Hoisting, Closures, and Scopes in JavaScript
+- [Javascript Visualizer](https://tylermcginnis.com/javascript-visualizer/) - A tool for visualizing Execution Context, Hoisting, Closures, and Scopes in JavaScript
 
 - [The Event Loop, the Callback Queue](http://latentflip.com/loupe/) - A tool for visualizing the Event Loop and Callback Queue
 

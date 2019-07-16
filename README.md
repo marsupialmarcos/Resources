@@ -11,6 +11,8 @@
 
 - [Javascript-Visualizer](https://tylermcginnis.com/javascript-visualizer/) - A tool for visualizing Execution Context, Hoisting, Closures, and Scopes in JavaScript
 
+- [Simplified Data Structures](https://www.interviewcake.com/data-structures-and-algorithms-guide)
+
 - [The Event Loop, the Callback Queue](http://latentflip.com/loupe/) - A tool for visualizing the Event Loop and Callback Queue
 
 - [Node School](https://nodeschool.io/) - Open source workshops that teach web software skills. Do them on your own or at a workshop nearby.

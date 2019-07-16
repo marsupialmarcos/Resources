@@ -40,7 +40,7 @@
 
 # AI/ML
 
-- [Neural Network Zoo]http://www.asimovinstitute.org/neural-network-zoo/
+- [Neural Network Zoo](http://www.asimovinstitute.org/neural-network-zoo/) - Neural Network 
 
 - [Johny-Five](http://johnny-five.io/) - The Robot
 

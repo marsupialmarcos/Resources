@@ -1,6 +1,6 @@
 # :+1:This PR looks great - it's ready to merge! :shipit:
 
-
+- [Javascript.info](https://javascript.info/) - The Modern JavaScript Tutorial
 
 - [SICP](https://github.com/marsupialmarcos/Resources/blob/master/Structure%20and%20Interpretation%20of%20Computer%20Programs.pdf) - Structure and Interpretation of Computer Programs for js
 - [VisuAlgo](https://visualgo.net) - A tool for visualizing Algorithms and Data Structures

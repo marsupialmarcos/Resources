@@ -6,13 +6,13 @@
 
 # Visualizing
 
-- [VisuAlgo](https://visualgo.net) - A tool for visualizing Algorithms and Data Structures
-
 - [Javascript-Visualizer](https://tylermcginnis.com/javascript-visualizer/) - A tool for visualizing Execution Context, Hoisting, Closures, and Scopes in JavaScript
 
 - [The Event Loop, the Callback Queue](http://latentflip.com/loupe/) - A tool for visualizing the Event Loop and Callback Queue
 
 - [Javascript Tutor](http://pythontutor.com/javascript.html#mode=edit) - Visualize JavaScript code execution
+
+- [VisuAlgo](https://visualgo.net) - A tool for visualizing Algorithms and Data Structures
 
 # Object-Oriented System Design
 
@@ -34,9 +34,16 @@
 
 - [Johny-Five](http://johnny-five.io/) - The Robot
 
-
 - [Node Red](https://nodered.org/) - Node-RED provides a browser-based editor that makes it easy to wire together flows using the wide range of nodes that can be deployed to its runtime in a single-click.
 
 - [Node School](https://nodeschool.io/) - Open source workshops that teach web software skills. Do them on your own or at a workshop nearby.
 
+# AI/ML
 
+- [Neural Network Zoo]http://www.asimovinstitute.org/neural-network-zoo/
+
+- [Johny-Five](http://johnny-five.io/) - The Robot
+
+Ian Goodfellow
+Andrew Ng
+Yoshua Bengio

@@ -7,6 +7,8 @@
 
 - [The Algorithm Design Manual](https://github.com/marsupialmarcos/Resources/blob/master/The%20Algorithm%20Design%20Manual.pdf) - Skiena's Algorithm Design Manual
 
+- [Computer Organization and Design](https://github.com/marsupialmarcos/Resources/blob/master/The%20Algorithm%20Design%20Manual.pdf) - Computer Organization and Design
+
 - [Javascript-Visualizer](https://tylermcginnis.com/javascript-visualizer/) - A tool for visualizing Execution Context, Hoisting, Closures, and Scopes in JavaScript
 
 - [The Event Loop, the Callback Queue](http://latentflip.com/loupe/) - A tool for visualizing the Event Loop and Callback Queue

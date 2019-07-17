@@ -38,18 +38,21 @@ class LinkedList{
 ```
 ### Tree
 ```javascript
+
+
 class Node{
   constructor(val){
     this.val = val;
+    this.parent = null;
     this.children = [];
     }
 }
 
 class Tree{
-  constructor(){
-  this.storage = {};
-  }
-} 
+    constructor(val){
+    var node = new Node(val);
+    this._root = node;
+}
 ```
 
 ### Graphs 

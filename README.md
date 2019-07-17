@@ -6,7 +6,7 @@
 
 # Data Structures
 
-### Stack ###### Life is like a stack of pancakes
+### Stack 🥞
 ```javascript
 function Stack() {
     this._size = 0;

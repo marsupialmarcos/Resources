@@ -76,6 +76,10 @@
 
 - [Node Red](https://nodered.org/) - Node-RED provides a browser-based editor that makes it easy to wire together flows using the wide range of nodes that can be deployed to its runtime in a single-click.
 
+# Game Dev
+
+-[Game Development](https://github.com/marsupialmarcos/Resources/blob/master/Building%20JavaScript%20Games%20for%20Phones%2C%20Tablets%2C%20and%20Desktop.pdf)
+
 # AI/ML
 
 - [Neural Network Zoo](http://www.asimovinstitute.org/neural-network-zoo/) - Neural Networks and correspoinding academic papers

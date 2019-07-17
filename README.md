@@ -16,7 +16,7 @@
 
 # Object-Oriented System Design
 
-- [System Design Primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.
+- [System Design Primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems, includes flashcards.
 
 
 - [Design A Parking Lot](https://www.educative.io/collection/page/5668639101419520/5692201761767424/5770234338213888) - Design A Parking Lot
@@ -38,6 +38,8 @@
 - [OWSAP](https://cheatsheetseries.owasp.org/) - Collection of high value info on specific app security topics created by various application security professionals with expertise in specific topics.
 
 - [OSCP Preparation Roadmap](https://security-prince.github.io/PWK-OSCP-Preparation-Roadmap/) - OSCP Prep
+
+- [Pentester Academy](https://www.pentesteracademy.com/)
 
 # Robotics
 

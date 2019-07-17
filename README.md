@@ -6,10 +6,23 @@
 
 # Data Structures
 
-## Stack
-## Queue
-## LinkedList
-## Tree
+### Stack
+```javascript
+function Stack() {
+    this._size = 0;
+    this._storage = {};
+}
+```
+### Queue
+```javascript
+function Queue() {
+    this._oldestIndex = 1;
+    this._newestIndex = 1;
+    this._storage = {};
+}
+```
+### LinkedList
+### Tree
 ```javascript
 class Node{
   constructor(val){
@@ -24,8 +37,8 @@ class Tree{
   }
 } 
 ```
-![alt text](https://github.com/marsupialmarcos/Resources/blob/master/300px-Petersen_graph_complement.svg.png)
-## Graphs 
+
+### Graphs 
 ```javascript
 class Node{
   constructor(val){

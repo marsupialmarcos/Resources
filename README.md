@@ -64,11 +64,9 @@
 
 # Operation Systems
 
-- [The Elements of Computing Systems](https://github.com/marsupialmarcos/Resources/blob/master/The%20Elements%20of%20Computing%20Systems.pdf)
+- [The Elements of Computing Systems](https://github.com/marsupialmarcos/Resources/blob/master/The%20Elements%20of%20Computing%20Systems.pdf) - Building a Modern Computer from First Principles
 
 - [Operating Systems](https://github.com/marsupialmarcos/Resources/blob/master/Operating%20Systems.pdf)
-
-- []()
 
 # Security
 
@@ -92,7 +90,7 @@
 
 # AI/ML
 
-- [Neural Network Zoo](http://www.asimovinstitute.org/neural-network-zoo/) - Neural Networks and correspoinding academic papers
+- [Neural Network Zoo](http://www.asimovinstitute.org/neural-network-zoo/) - Neural Networks and corresponding academic papers
 
 - [Data Science From Scratch](https://github.com/marsupialmarcos/Resources/blob/master/%5BJoel_Grus%5D_Data_Science_from_Scratch_First_Princ.pdf)
 
@@ -111,5 +109,3 @@
 - Yann LeCunn
 - Yoshua Bengio
 - Geoffrey Hinton
-- Demis Hassabis
-- Frank Rosenblatt

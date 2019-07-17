@@ -54,6 +54,8 @@
 
 - [Node School](https://nodeschool.io/) - Open source workshops that teach web software skills. Do them on your own or at a workshop nearby.
 
+- [Rithm School Node/Express Fundamentals](https://www.rithmschool.com/courses/node-express-fundamentals) - Rithm School Node and Express.js Fundamentals.
+
 # Networking
 
 - [Computer Networking](https://github.com/marsupialmarcos/Resources/blob/master/Computer%20Networking.pdf)

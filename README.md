@@ -31,7 +31,7 @@ function Queue() {
 Let's define the two operations of a Queue:
 
 - `enqueue(value)` adds value to end of queue.
-- `dequeue` removes oldest value from the queue.
+- `dequeue` removes oldest value in the queue.
 
 ### LinkedList
 ```javascript
@@ -48,6 +48,21 @@ class Node{
     }
 }
 ```
+#### Operations of a LinkedList
+Since every LinkedList contains nodes, which can be a separate constructor from a tree, we will outline the operations of both constructors: Node and LinkedList.
+
+##### Node
+`_val` stores a value.
+`_next` points at the next node in the list.
+
+##### LinkedList
+- `_root` points to the root node of a tree.
+- `traverseDF(callback)` traverses nodes of a tree with DFS.
+- `traverseBF(callback)` traverses nodes of a tree with BFS.
+- `contains(data, traversal)` searches for a node in a tree.
+- `add(data, toData, traverse)` adds a node to a tree.
+- `remove(child, parent)` removes a node in a tree. 
+
 ### Tree
 ```javascript
 class Tree{

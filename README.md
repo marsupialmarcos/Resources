@@ -63,7 +63,7 @@ Since every LinkedList contains nodes, which can be a separate constructor from 
 - `add(data, toData, traverse)` adds a node to a tree.
 - `remove(child, parent)` removes a node in a tree. 
 
-### Tree - Life is like branches
+### Tree 🌳
 ```javascript
 class Tree {
     constructor(val){

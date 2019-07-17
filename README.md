@@ -165,7 +165,7 @@ class Node{
 
 - [The Elements of Computing Systems](https://github.com/marsupialmarcos/Resources/blob/master/The%20Elements%20of%20Computing%20Systems.pdf) - Building a Modern Computer from First Principles
 
-- [Operating Systems](https://github.com/marsupialmarcos/Resources/blob/master/Operating%20Systems.pdf)
+- [Operating Systems](https://github.com/marsupialmarcos/Resources/blob/master/Operating%20Systems.pdf) - Three Easy Pieces centered around three conceptual pieces that are fundamental to operating systems: virtualization, concurrency, and persistence.
 
 # Security
 

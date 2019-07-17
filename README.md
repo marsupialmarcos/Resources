@@ -9,7 +9,20 @@
 - Stack - Ordinal
 - Queue -
 - LinkedList -
-- Tree - A 
+- Tree
+```javascript
+class Node{
+  constructor(val){
+    this.val = val
+    }
+}
+
+class Tree{
+  constructor(){
+  this.storage = {}
+  }
+} 
+```
 - Graph 
 ```javascript
 class Node{
@@ -22,8 +35,7 @@ class Graph{
   constructor(){
   this.adjList = {}
   }
-}
-
+} 
 ```
 - Heap - 
 

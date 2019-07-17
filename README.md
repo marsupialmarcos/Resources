@@ -40,6 +40,12 @@
 
 - [Design A Library Management System](https://www.educative.io/collection/page/5668639101419520/5692201761767424/5636470266134528) - Design A Library Management System
 
+
+- [Design A Library Management System](https://www.educative.io/collection/page/5668639101419520/5649050225344512/5668600916475904) - Design A URL Shortening Service
+
+- [Design Instagram](https://www.educative.io/collection/page/5668639101419520/5649050225344512/5673385510043648) - Design Instagram
+
+
 # Design Patterns
 
 - [ES6 Design Patterns](https://loredanacirstea.github.io/es6-design-patterns/) GoF Design Patterns in ES6+

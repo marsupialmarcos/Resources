@@ -65,19 +65,22 @@ Since every LinkedList contains nodes, which can be a separate constructor from 
 
 ### Tree
 ```javascript
-class Tree{
+class Tree {
     constructor(val){
     var node = new Node(val);
     this._root = node;
 }
 
-class Node{
+class Node {
   constructor(val){
     this._val = val;
     this._parent = null;
     this._children = [];
     }
 }
+
+let leaf = new Tree('leaf');
+console.log(shrub) // Tree {_root: Node {_val: leaf, _parent: null, _children: []}}
 ```
 #### Operations of a Tree
 Since every tree contains nodes, which can be a separate constructor from a tree, we will outline the operations of both constructors: Node and Tree.

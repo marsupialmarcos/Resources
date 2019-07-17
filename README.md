@@ -55,7 +55,7 @@ Since every LinkedList contains nodes, which can be a separate constructor from 
 `_val` stores a value.
 `_next` points at the next node in the list.
 
-##### LinkedList
+##### LinkedList :shipit:
 - `_root` points to the root node of a tree.
 - `traverseDF(callback)` traverses nodes of a tree with DFS.
 - `traverseBF(callback)` traverses nodes of a tree with BFS.

@@ -19,7 +19,7 @@ Let's define the two operations of a stack:
 - `push(value)` adds value to the top of the stack.
 - `pop()` removes most recently added value from the stack.
 
-### Queue
+### Queue 🎢
 ```javascript
 function Queue() {
     this._oldestIndex = 1;

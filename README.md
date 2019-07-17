@@ -6,12 +6,17 @@
 
 # Data Structures
 
-- Stack
-- Queue
-- LinkedList
-- Tree
-- Graph
-- Heap
+- Stack - Ordinal
+
+```javascript
+let node = new Node();
+```
+
+- Queue -
+- LinkedList -
+- Tree - A 
+- Graph - A structure representing a collection of vertices and edges represented as an adjacency list or adjacency matrix
+- Heap - 
 
 # Algorithms
 

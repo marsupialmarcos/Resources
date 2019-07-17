@@ -78,6 +78,10 @@
 
 - [Neural Network Zoo](http://www.asimovinstitute.org/neural-network-zoo/) - Neural Networks and correspoinding academic papers
 
+# Finance
+
+- []()
+
 - []()
 
 # Notable Scientists:

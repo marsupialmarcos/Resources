@@ -6,7 +6,7 @@
 
 # Data Structures
 
-### 🥞 Stack 
+### Stack 🥞  
 ```javascript
 function Stack() {
     this._size = 0;

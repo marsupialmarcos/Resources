@@ -33,7 +33,7 @@ Let's define the two operations of a Queue:
 - `enqueue(value)` adds value to end of queue.
 - `dequeue` removes oldest value in the queue.
 
-### LinkedList 🔍:shipit: 
+### LinkedList  🔍 
 ```javascript
 class LinkedList{
   constructor(){

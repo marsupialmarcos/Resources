@@ -100,7 +100,7 @@
 
 - [Investments](https://github.com/marsupialmarcos/Resources/blob/master/Investments_11e_-_Zvi_Bodie.pdf-min.pdf)
 
-- [Investments](https://github.com/marsupialmarcos/Resources/blob/master/Investments_11e_-_Zvi_Bodie.pdf-min.pdf)
+- [Python Finance](https://github.com/marsupialmarcos/Resources/blob/master/Python%20for%20Finance_%20Analyze%20Big%20Financial%20Data%20%5BHilpisch%202014-12-27%5D.pdf)
 
 # Notable Scientists in AI:
 

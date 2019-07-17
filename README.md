@@ -33,7 +33,7 @@ Let's define the two operations of a Queue:
 - `enqueue(value)` adds value to end of queue.
 - `dequeue` removes oldest value in the queue.
 
-### LinkedList 
+### LinkedList :shipit: 
 ```javascript
 class LinkedList{
   constructor(){
@@ -98,7 +98,7 @@ Since every tree contains nodes, which can be a separate constructor from a tree
 - `add(data, toData, traverse)` adds a node to a tree.
 - `remove(child, parent)` removes a node in a tree. 
 
-### Graphs 
+### Graphs 📍
 ```javascript
 class Graph{
   constructor(){
@@ -114,11 +114,11 @@ class Node{
 ```
 # Algorithms
 
-- BubbleSort
-- SelectionSort
+- BubbleSort  🔮 
+- SelectionSort 🎣
 - InsertionSort
 - MergeSort
-- QuickSort
+- QuickSort 
 
 # Visualizing
 

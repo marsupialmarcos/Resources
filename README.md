@@ -52,21 +52,21 @@ class Node{
     }
 }
 ```
-Operations of a Tree
+#### Operations of a Tree
 Since every tree contains nodes, which can be a separate constructor from a tree, we will outline the operations of both constructors: Node and Tree.
 
-Node
+#### Operations of a Tree
 `value` stores a value.
 `parent` points to a node's parent.
 `children` points to the next node in the list.
 
-Tree
-`_root` points to the root node of a tree.
-`traverseDF(callback)` traverses nodes of a tree with DFS.
-`traverseBF(callback)` traverses nodes of a tree with BFS.
-`contains(data, traversal)` searches for a node in a tree.
-`add(data, toData, traverse)` adds a node to a tree.
-`remove(child, parent)` removes a node in a tree. 
+#### Operations of a Tree
+- `_root` points to the root node of a tree.
+- `traverseDF(callback)` traverses nodes of a tree with DFS.
+- `traverseBF(callback)` traverses nodes of a tree with BFS.
+- `contains(data, traversal)` searches for a node in a tree.
+- `add(data, toData, traverse)` adds a node to a tree.
+- `remove(child, parent)` removes a node in a tree. 
 
 ### Graphs 
 ```javascript

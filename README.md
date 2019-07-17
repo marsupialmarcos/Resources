@@ -13,9 +13,17 @@
 - Graph 
 ```javascript
 class Node{
-  constructor(val)
+  constructor(val){
     this.val = val
+    }
 }
+
+class Graph{
+  constructor(){
+  this.adjList = {}
+  }
+}
+
 ```
 - Heap - 
 

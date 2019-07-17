@@ -19,7 +19,7 @@ Let's define the two operations of a stack:
 - `push(value)` adds value to the top of the stack.
 - `pop()` removes most recently added value from the stack.
 
-### Queue - Life is like a line to the loo
+### Queue
 ```javascript
 function Queue() {
     this._oldestIndex = 1;
@@ -33,7 +33,7 @@ Let's define the two operations of a Queue:
 - `enqueue(value)` adds value to end of queue.
 - `dequeue` removes oldest value in the queue.
 
-### LinkedList - Life is like a Scavenger Hunt
+### LinkedList
 ```javascript
 class LinkedList{
   constructor(){

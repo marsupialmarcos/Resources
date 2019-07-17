@@ -48,6 +48,10 @@
 
 - [Node School](https://nodeschool.io/) - Open source workshops that teach web software skills. Do them on your own or at a workshop nearby.
 
+# Networking
+
+- [Computer Networking](https://github.com/marsupialmarcos/Resources/blob/master/Computer%20Networking.pdf)
+
 # Operation Systems
 
 
@@ -71,6 +75,8 @@
 # AI/ML
 
 - [Neural Network Zoo](http://www.asimovinstitute.org/neural-network-zoo/) - Neural Networks and correspoinding academic papers
+
+- []()
 
 # Notable Scientists:
 

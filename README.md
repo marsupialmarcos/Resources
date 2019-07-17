@@ -11,7 +11,7 @@
 - LinkedList -
 - Tree - A 
 - Graph 
-```
+```javascript
 class Node{
   constructor(val)
     this.val = val

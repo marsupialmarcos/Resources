@@ -60,6 +60,8 @@
 
 - [Operating Systems](https://github.com/marsupialmarcos/Resources/blob/master/Operating%20Systems.pdf)
 
+- []()
+
 # Security
 
 - [Buggy Web App](http://www.itsecgames.com/) - Buggy Web App!
@@ -78,7 +80,7 @@
 
 # Game Dev
 
--[Game Development](https://github.com/marsupialmarcos/Resources/blob/master/Building%20JavaScript%20Games%20for%20Phones%2C%20Tablets%2C%20and%20Desktop.pdf)
+- [Game Development](https://github.com/marsupialmarcos/Resources/blob/master/Building%20JavaScript%20Games%20for%20Phones%2C%20Tablets%2C%20and%20Desktop.pdf)
 
 # AI/ML
 

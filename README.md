@@ -44,6 +44,10 @@
 
 - [ES6 Design Patterns](https://loredanacirstea.github.io/es6-design-patterns/) GoF Design Patterns in ES6+
 
+# Node.JS
+
+- [Node School](https://nodeschool.io/) - Open source workshops that teach web software skills. Do them on your own or at a workshop nearby.
+
 # Operation Systems
 
 
@@ -60,11 +64,9 @@
 
 # Robotics
 
-- [Johny-Five](http://johnny-five.io/) - The Robot
+- [Johny-Five](http://johnny-five.io/) - JavaScript Robotics & IoT Platform
 
 - [Node Red](https://nodered.org/) - Node-RED provides a browser-based editor that makes it easy to wire together flows using the wide range of nodes that can be deployed to its runtime in a single-click.
-
-- [Node School](https://nodeschool.io/) - Open source workshops that teach web software skills. Do them on your own or at a workshop nearby.
 
 # AI/ML
 

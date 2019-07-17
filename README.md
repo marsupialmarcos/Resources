@@ -6,10 +6,10 @@
 
 # Data Structures
 
-- Stack - Ordinal
-- Queue -
-- LinkedList -
-- Tree
+## Stack
+## Queue
+## LinkedList
+## Tree
 ```javascript
 class Node{
   constructor(val){
@@ -24,7 +24,7 @@ class Tree{
   }
 } 
 ```
-# GRAPHS ![alt text](https://github.com/marsupialmarcos/Resources/blob/master/300px-Petersen_graph_complement.svg.png)
+## Graphs ![alt text](https://github.com/marsupialmarcos/Resources/blob/master/300px-Petersen_graph_complement.svg.png)
 ```javascript
 class Node{
   constructor(val){

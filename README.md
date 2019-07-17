@@ -22,7 +22,6 @@ function Queue() {
 }
 ```
 ### LinkedList
-### Tree
 ```javascript
 class Node{
   constructor(val){
@@ -37,6 +36,8 @@ class Tree{
   }
 } 
 ```
+### Tree
+c
 
 ### Graphs 
 ```javascript
@@ -52,8 +53,6 @@ class Graph{
   }
 } 
 ```
-- Heap - 
-
 # Algorithms
 
 - BubbleSort

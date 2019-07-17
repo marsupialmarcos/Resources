@@ -83,9 +83,9 @@ class Node{
 Since every tree contains nodes, which can be a separate constructor from a tree, we will outline the operations of both constructors: Node and Tree.
 
 ##### Node
-`value` stores a value.
-`parent` points to a node's parent.
-`children` points to the next node in the list.
+`_val` stores a value.
+`_parent` points to a node's parent.
+`_children` points to the next node in the list.
 
 ##### Tree
 - `_root` points to the root node of a tree.

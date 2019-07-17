@@ -41,7 +41,7 @@
 - [Design A Library Management System](https://www.educative.io/collection/page/5668639101419520/5692201761767424/5636470266134528) - Design A Library Management System
 
 
-- [Design A Library Management System](https://www.educative.io/collection/page/5668639101419520/5649050225344512/5668600916475904) - Design A URL Shortening Service
+- [Design A URL Shortening Service](https://www.educative.io/collection/page/5668639101419520/5649050225344512/5668600916475904) - Design A URL Shortening Service
 
 - [Design Instagram](https://www.educative.io/collection/page/5668639101419520/5649050225344512/5673385510043648) - Design Instagram
 

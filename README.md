@@ -24,7 +24,7 @@ class Tree{
   }
 } 
 ```
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+![alt text](https://github.com/marsupialmarcos/Resources/blob/master/300px-Petersen_graph_complement.svg.png)
 ```javascript
 class Node{
   constructor(val){

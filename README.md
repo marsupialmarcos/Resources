@@ -55,12 +55,12 @@ class Node{
 #### Operations of a Tree
 Since every tree contains nodes, which can be a separate constructor from a tree, we will outline the operations of both constructors: Node and Tree.
 
-#### Operations of a Tree
+##### Node
 `value` stores a value.
 `parent` points to a node's parent.
 `children` points to the next node in the list.
 
-#### Operations of a Tree
+##### Tree
 - `_root` points to the root node of a tree.
 - `traverseDF(callback)` traverses nodes of a tree with DFS.
 - `traverseBF(callback)` traverses nodes of a tree with BFS.

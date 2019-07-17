@@ -13,6 +13,12 @@ function Stack() {
     this._storage = {};
 }
 ```
+#### Operations of a Stack
+Let's define the two operations of a stack:
+
+- `push(value)` adds values to the stack.
+- `pop()` removes the last added item from the stack.
+
 ### Queue
 ```javascript
 function Queue() {
@@ -21,6 +27,12 @@ function Queue() {
     this._storage = {};
 }
 ```
+#### Operations of a Queue
+Let us define the two operations of a stack:
+
+- `enqueue(value)` adds value to the queue.
+- `dequeue` removes the first value from the queue.
+
 ### LinkedList
 ```javascript
 class LinkedList{

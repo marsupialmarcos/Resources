@@ -80,7 +80,7 @@
 
 # Finance
 
-- []()
+- [Corporate Finance](https://github.com/marsupialmarcos/Resources/blob/master/corporate-finance.pdf)
 
 - []()
 

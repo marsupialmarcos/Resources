@@ -92,7 +92,7 @@
 
 - [Neural Network Zoo](http://www.asimovinstitute.org/neural-network-zoo/) - Neural Networks and correspoinding academic papers
 
-- [Investments](https://github.com/marsupialmarcos/Resources/blob/master/Investments_11e_-_Zvi_Bodie.pdf-min.pdf)
+- [Data Science From Scratch](https://github.com/marsupialmarcos/Resources/blob/master/%5BJoel_Grus%5D_Data_Science_from_Scratch_First_Princ.pdf)
 
 # Finance
 

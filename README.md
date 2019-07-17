@@ -24,7 +24,7 @@ class Tree{
   }
 } 
 ```
-GRAPHS![alt text](https://github.com/marsupialmarcos/Resources/blob/master/300px-Petersen_graph_complement.svg.png)
+# GRAPHS ![alt text](https://github.com/marsupialmarcos/Resources/blob/master/300px-Petersen_graph_complement.svg.png)
 ```javascript
 class Node{
   constructor(val){

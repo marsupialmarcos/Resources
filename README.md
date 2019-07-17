@@ -16,8 +16,8 @@ function Stack() {
 #### Operations of a Stack
 Let's define the two operations of a stack:
 
-- `push(value)` adds values to the stack.
-- `pop()` removes the last added item from the stack.
+- `push(value)` adds value to the top of the stack.
+- `pop()` removes last added value from the stack.
 
 ### Queue
 ```javascript
@@ -28,10 +28,10 @@ function Queue() {
 }
 ```
 #### Operations of a Queue
-Let us define the two operations of a stack:
+Let us define the two operations of a Queue:
 
-- `enqueue(value)` adds value to the queue.
-- `dequeue` removes the first value from the queue.
+- `enqueue(value)` adds value to end of queue.
+- `dequeue` removes value from the front of the queue.
 
 ### LinkedList
 ```javascript

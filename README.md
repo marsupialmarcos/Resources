@@ -112,13 +112,14 @@ class Node{
     }
 }
 ```
+
 # Algorithms
 
 - BubbleSort  🔮 
 - SelectionSort 🎣
-- InsertionSort
-- MergeSort
-- QuickSort 
+- InsertionSort ♠️
+- MergeSort 🍻
+- QuickSort ⌚️
 
 # Visualizing
 

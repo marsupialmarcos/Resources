@@ -28,7 +28,7 @@ function Queue() {
 }
 ```
 #### Operations of a Queue
-Let us define the two operations of a Queue:
+Let's define the two operations of a Queue:
 
 - `enqueue(value)` adds value to end of queue.
 - `dequeue` removes oldest value from the queue.

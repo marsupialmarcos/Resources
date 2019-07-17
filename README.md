@@ -58,6 +58,8 @@
 
 - [The Elements of Computing Systems](https://github.com/marsupialmarcos/Resources/blob/master/The%20Elements%20of%20Computing%20Systems.pdf)
 
+- [The Elements of Computing Systems](https://github.com/marsupialmarcos/Resources/blob/master/The%20Elements%20of%20Computing%20Systems.pdf)
+
 # Security
 
 - [Buggy Web App](http://www.itsecgames.com/) - Buggy Web App!

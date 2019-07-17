@@ -23,51 +23,49 @@ function Queue() {
 ```
 ### LinkedList
 ```javascript
-class Node{
-  constructor(val){
-    this.val = val;
-    this.next = null;
-    }
-}
-
 class LinkedList{
   constructor(){
-  this.storage = {}
+  this._storage = {}
   }
 } 
+
+class Node{
+  constructor(val){
+    this._val = val;
+    this._next = null;
+    }
+}
 ```
 ### Tree
 ```javascript
-
-
-class Node{
-  constructor(val){
-    this.val = val;
-    this.parent = null;
-    this.children = [];
-    }
-}
-
 class Tree{
     constructor(val){
     var node = new Node(val);
     this._root = node;
 }
+
+class Node{
+  constructor(val){
+    this._val = val;
+    this._parent = null;
+    this._children = [];
+    }
+}
 ```
 
 ### Graphs 
 ```javascript
+class Graph{
+  constructor(){
+  this._adjList = {};
+  }
+} 
+
 class Node{
   constructor(val){
     this.val = val;
     }
 }
-
-class Graph{
-  constructor(){
-  this.adjList = {};
-  }
-} 
 ```
 # Algorithms
 

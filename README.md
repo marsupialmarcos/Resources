@@ -33,7 +33,7 @@ Let's define the two operations of a Queue:
 - `enqueue(value)` adds value to end of queue.
 - `dequeue` removes oldest value in the queue.
 
-### LinkedList
+### LinkedList :shipit:
 ```javascript
 class LinkedList{
   constructor(){
@@ -55,7 +55,7 @@ Since every LinkedList contains nodes, which can be a separate constructor from 
 `_val` stores a value.
 `_next` points at the next node in the list.
 
-##### LinkedList :shipit:
+##### LinkedList
 - `_root` points to the root node of a tree.
 - `traverseDF(callback)` traverses nodes of a tree with DFS.
 - `traverseBF(callback)` traverses nodes of a tree with BFS.

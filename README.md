@@ -6,7 +6,7 @@
 
 # Data Structures
 
-### Stack 🥞  
+### Stack  🥞  
 ```javascript
 function Stack() {
     this._size = 0;
@@ -33,7 +33,7 @@ Let's define the two operations of a Queue:
 - `enqueue(value)` adds value to end of queue.
 - `dequeue` removes oldest value in the queue.
 
-### LinkedList :shipit:
+### LinkedList 
 ```javascript
 class LinkedList{
   constructor(){
@@ -183,15 +183,17 @@ class Node{
 
 - [Node Red](https://nodered.org/) - Node-RED provides a browser-based editor that makes it easy to wire together flows using the wide range of nodes that can be deployed to its runtime in a single-click.
 
-# Game Dev
+# Game Dev 👾
 
 - [Game Development](https://github.com/marsupialmarcos/Resources/blob/master/Building%20JavaScript%20Games%20for%20Phones%2C%20Tablets%2C%20and%20Desktop.pdf)
 
-# AI/ML
+# Data Science/AI/NeuralNetworks/ML/Deep Learning
 
 - [Neural Network Zoo](http://www.asimovinstitute.org/neural-network-zoo/) - Neural Networks and corresponding academic papers
 
-- [Data Science From Scratch](https://github.com/marsupialmarcos/Resources/blob/master/%5BJoel_Grus%5D_Data_Science_from_Scratch_First_Princ.pdf)
+- [Neural Network Zoo](http://www.asimovinstitute.org/neural-network-zoo/) - Neural Networks and corresponding academic papers
+
+- [Neural Networks](https://github.com/marsupialmarcos/Resources/blob/master/neuron.pdf)
 
 # Finance
 

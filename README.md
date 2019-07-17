@@ -6,7 +6,7 @@
 
 # Data Structures
 
-### Stack
+### Stack - Life is like a stack of pancakes
 ```javascript
 function Stack() {
     this._size = 0;
@@ -19,7 +19,7 @@ Let's define the two operations of a stack:
 - `push(value)` adds value to the top of the stack.
 - `pop()` removes most recently added value from the stack.
 
-### Queue
+### Queue - Life is like a line to the loo
 ```javascript
 function Queue() {
     this._oldestIndex = 1;
@@ -33,7 +33,7 @@ Let's define the two operations of a Queue:
 - `enqueue(value)` adds value to end of queue.
 - `dequeue` removes oldest value in the queue.
 
-### LinkedList
+### LinkedList - Life is like a Scavenger Hunt
 ```javascript
 class LinkedList{
   constructor(){
@@ -63,7 +63,7 @@ Since every LinkedList contains nodes, which can be a separate constructor from 
 - `add(data, toData, traverse)` adds a node to a tree.
 - `remove(child, parent)` removes a node in a tree. 
 
-### Tree
+### Tree - Life is like branches
 ```javascript
 class Tree {
     constructor(val){
@@ -80,7 +80,7 @@ class Node {
 }
 
 let leaf = new Tree('leaf');
-console.log(shrub) // Tree {_root: Node {_val: leaf, _parent: null, _children: []}}
+console.log(leaf) // Tree {_root: Node {_val: leaf, _parent: null, _children: []}}
 ```
 #### Operations of a Tree
 Since every tree contains nodes, which can be a separate constructor from a tree, we will outline the operations of both constructors: Node and Tree.

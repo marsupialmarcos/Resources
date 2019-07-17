@@ -84,7 +84,7 @@
 
 - [Investments](https://github.com/marsupialmarcos/Resources/blob/master/Investments_11e_-_Zvi_Bodie.pdf-min.pdf)
 
-# Notable Scientists:
+# Notable Scientists in AI:
 
 - Ian Goodfellow
 - Andrew Ng

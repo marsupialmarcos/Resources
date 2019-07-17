@@ -70,12 +70,12 @@
 
 - [Neural Network Zoo](http://www.asimovinstitute.org/neural-network-zoo/) - Neural Networks and correspoinding academic papers
 
-Notable Scientists:
+# Notable Scientists:
 
-Ian Goodfellow
-Andrew Ng
-Yann LeCunn
-Yoshua Bengio
-Geoffrey Hinton
-Demis Hassabis
-Frank Rosenblatt
+- Ian Goodfellow
+- Andrew Ng
+- Yann LeCunn
+- Yoshua Bengio
+- Geoffrey Hinton
+- Demis Hassabis
+- Frank Rosenblatt

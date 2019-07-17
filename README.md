@@ -14,7 +14,7 @@
 
 - [VisuAlgo](https://visualgo.net) - A tool for visualizing Algorithms and Data Structures
 
-# Object-Oriented System Design
+# System Design
 
 - [System Design Primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems, includes flashcards.
 
@@ -25,7 +25,7 @@
 
 # Design Patterns
 
-
+- [ES6 Design Patterns](https://loredanacirstea.github.io/es6-design-patterns/) GoF Design Patterns in ES6+
 
 # Operation Systems
 

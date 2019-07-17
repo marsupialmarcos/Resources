@@ -25,8 +25,8 @@ function Queue() {
 ```javascript
 class Node{
   constructor(val){
-    this.val = val
-    this.children = []
+    this.val = val;
+    this.next = null;
     }
 }
 
@@ -40,14 +40,14 @@ class LinkedList{
 ```javascript
 class Node{
   constructor(val){
-    this.val = val
-    this.children = []
+    this.val = val;
+    this.children = [];
     }
 }
 
 class Tree{
   constructor(){
-  this.storage = {}
+  this.storage = {};
   }
 } 
 ```
@@ -56,13 +56,13 @@ class Tree{
 ```javascript
 class Node{
   constructor(val){
-    this.val = val
+    this.val = val;
     }
 }
 
 class Graph{
   constructor(){
-  this.adjList = {}
+  this.adjList = {};
   }
 } 
 ```

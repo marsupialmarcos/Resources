@@ -4,6 +4,23 @@
 
 - [SICP](https://github.com/marsupialmarcos/Resources/blob/master/Structure%20and%20Interpretation%20of%20Computer%20Programs.pdf) - Structure and Interpretation of Computer Programs for JS
 
+# Data Structures
+
+- Stack
+- Queue
+- LinkedList
+- Tree
+- Graph
+- Heap
+
+# Algorithms
+
+- BubbleSort
+- SelectionSort
+- InsertionSort
+- MergeSort
+- QuickSort
+
 # Visualizing
 
 - [Javascript Visualizer](https://tylermcginnis.com/javascript-visualizer/) - A tool for visualizing Execution Context, Hoisting, Closures, and Scopes in JavaScript

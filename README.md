@@ -80,7 +80,7 @@
 
 # Finance
 
-- [Corporate Finance](https://github.com/marsupialmarcos/Resources/blob/master/corporate-finance.pdf) Berk DerMarzo
+- [Corporate Finance](https://github.com/marsupialmarcos/Resources/blob/master/corporate-finance.pdf)
 
 - [Investments](https://github.com/marsupialmarcos/Resources/blob/master/Investments_11e_-_Zvi_Bodie.pdf-min.pdf)
 

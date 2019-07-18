@@ -147,7 +147,8 @@ class Node{
 
 
 # Design Patterns
-
+- [Design Patterns, Elements of Reusable Object-Oriented Software.pdf](https://loredanacirstea.github.io/es6-design-patterns/) 
+The originaal
 - [ES6 Design Patterns](https://loredanacirstea.github.io/es6-design-patterns/) GoF Design Patterns in ES6+
 
 ### Creational
@@ -227,8 +228,6 @@ Behavioral | Definition
 
 - [Neural Network Zoo](http://www.asimovinstitute.org/neural-network-zoo/) - Neural Networks and corresponding academic papers
 
-- [Neural Network Zoo](http://www.asimovinstitute.org/neural-network-zoo/) - Neural Networks and corresponding academic papers
-
 - [Neural Networks](https://github.com/marsupialmarcos/Resources/blob/master/neuron.pdf)
 
 # Finance
@@ -236,6 +235,10 @@ Behavioral | Definition
 - [Corporate Finance](https://github.com/marsupialmarcos/Resources/blob/master/corporate-finance.pdf)
 
 - [Investments](https://github.com/marsupialmarcos/Resources/blob/master/Investments_11e_-_Zvi_Bodie.pdf-min.pdf)
+
+- []
+
+- [Derivatives Analytics with Python Data Analysis, Models, Simulation, Calibration and Hedging](https://github.com/marsupialmarcos/Resources/blob/master/Yves%20Hilpisch%20-%20Derivatives%20Analytics%20with%20Python%20Data%20Analysis%2C%20Models%2C%20Simulation%2C%20Calibration%20and%20Hedging%20(Wiley%20Finance%20Series)%20-%202015.pdf)
 
 - [Python for Finance: Analyze Big Financial Data](https://github.com/marsupialmarcos/Resources/blob/master/Python%20for%20Finance_%20Analyze%20Big%20Financial%20Data%20%5BHilpisch%202014-12-27%5D.pdf)
 

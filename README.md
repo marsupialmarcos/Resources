@@ -203,7 +203,9 @@ Behavioral | Definition
 
 - [Computer Organization and Design](https://github.com/marsupialmarcos/Resources/blob/master/Computer%20Organization%20And%20Design-min.pdf) - 
 
-- [Operating Systems](https://github.com/marsupialmarcos/Resources/blob/master/Operating%20Systems.pdf) - Three Easy Pieces centered around three conceptual pieces that are fundamental to operating systems: virtualization, concurrency, and persistence.
+- [Mac OSX](https://github.com/marsupialmarcos/Resources/blob/master/Mac%20OS%20X%20Internals%20-%20A%20Systems%20Approach-min.pdf) - System internals of the Mac OSX 
+
+- [Operating Systems](https://github.com/marsupialmarcos/Resources/blob/master/Operating%20Systems.pdf) - Three Easy Pieces centered around three conceptual pieces fundamental to operating systems: *virtualization*, *concurrency*, and *persistence*.
 
 # Security
 

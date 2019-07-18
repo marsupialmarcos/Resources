@@ -6,7 +6,7 @@
 
 # Data Structures
 
-- A collection of [Data Structures and Algorithms in JavaScript] (https://github.com/marsupialmarcos/Resources/blob/master/Data%20Structures%20and%20Algorithms%20with%20JavaScript%20-%20Michael%20McMillan.pdf)
+- A collection of [Data Structures in JavaScript](https://github.com/marsupialmarcos/Resources/blob/master/Data%20Structures%20and%20Algorithms%20with%20JavaScript%20-%20Michael%20McMillan.pdf)
 
 ### Stack  🥞  
 ```javascript

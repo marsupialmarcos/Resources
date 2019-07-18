@@ -234,11 +234,11 @@ Behavioral | Definition
 
 # Finance
 
-- [Corporate Finance](https://github.com/marsupialmarcos/Resources/blob/master/corporate-finance.pdf)
+- [Corporate Finance](https://github.com/marsupialmarcos/Resources/blob/master/corporate-finance.pdf) - Berk DeMarzo
 
-- [Investments](https://github.com/marsupialmarcos/Resources/blob/master/Investments_11e_-_Zvi_Bodie.pdf-min.pdf)
+- [Investments](https://github.com/marsupialmarcos/Resources/blob/master/Investments_11e_-_Zvi_Bodie.pdf-min.pdf) - Bodie Kane Marcus
 
-- []()
+- [Options, Futures, and Other Derivatives]() - John C. Hull
 
 - [Derivatives Analytics with Python Data Analysis, Models, Simulation, Calibration and Hedging](https://github.com/marsupialmarcos/Resources/blob/master/Yves%20Hilpisch%20-%20Derivatives%20Analytics%20with%20Python%20Data%20Analysis%2C%20Models%2C%20Simulation%2C%20Calibration%20and%20Hedging%20(Wiley%20Finance%20Series)%20-%202015.pdf)
 

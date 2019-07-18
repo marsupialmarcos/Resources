@@ -152,13 +152,24 @@ class Node{
 
 ### Creational
 
-Creational | Based on the concept of creating an object
-:--- :| --- |
-**Factory Method** | This makes an instance of several derived classes based on interfaced data or events
+Creational | Definition
+--- | --- |
+**Factory Method** | Makes an instance of several derived classes based on interfaced data or events
 **Abstract Factory** | Creates an instance of several families of classes without detailing concrete classes.
 **Builder** | Separates object construction from its representation, always creates the same type of object.
 **Prototype** | A fully initialized instances used for copying or cloning.
 **Singleton** | A class with only a single instance with global access points.
+
+### Structural
+Based on the idea of building blocks of objects.
+Structural | Definition
+--- | --- |
+**Adapter** | Match interfaces of different classes therefore classes can work together despite incompatible interfaces.
+**Bridge** | Separates an object's interface from its implementation so the two can vary independently
+**Composite** | A strucuture of simple and composite objects which makes the total object more than just the sum of its parts
+**Decorator** | Dynamically add alternate processing to objects.
+**Flyweight** | A fine-grained instance used for efficient sharing of information that is contained elsewhere.
+**Proxy** | A pace holder object representing the true object.
 
 
 # Node.JS

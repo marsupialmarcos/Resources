@@ -201,9 +201,9 @@ Behavioral | Definition
 
 - [The Elements of Computing Systems](https://github.com/marsupialmarcos/Resources/blob/master/The%20Elements%20of%20Computing%20Systems.pdf) - Building a Modern Computer from First Principles
 
-- [Computer Organization and Design](https://github.com/marsupialmarcos/Resources/blob/master/Computer%20Organization%20And%20Design-min.pdf) - 
+- [Computer Organization and Design] - The Hardware/Software Interface (https://github.com/marsupialmarcos/Resources/blob/master/Computer%20Organization%20And%20Design-min.pdf) - 
 
-- [Mac OSX](https://github.com/marsupialmarcos/Resources/blob/master/Mac%20OS%20X%20Internals%20-%20A%20Systems%20Approach-min.pdf) - System internals of the Mac OSX 
+- [Mac OS X Internals - A Systems Approach](https://github.com/marsupialmarcos/Resources/blob/master/Mac%20OS%20X%20Internals%20-%20A%20Systems%20Approach-min.pdf) - System internals of the Mac OSX 
 
 - [Operating Systems](https://github.com/marsupialmarcos/Resources/blob/master/Operating%20Systems.pdf) - Three Easy Pieces centered around three conceptual pieces fundamental to operating systems: *virtualization*, *concurrency*, and *persistence*.
 

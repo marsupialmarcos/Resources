@@ -148,7 +148,7 @@ class Node{
 
 # Design Patterns
 - [Design Patterns, Elements of Reusable Object-Oriented Software.pdf](https://loredanacirstea.github.io/es6-design-patterns/) 
-The originaal
+The original GoF Design Patterns
 - [ES6 Design Patterns](https://loredanacirstea.github.io/es6-design-patterns/) GoF Design Patterns in ES6+
 
 ### Creational

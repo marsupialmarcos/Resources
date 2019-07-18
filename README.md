@@ -151,8 +151,8 @@ class Node{
 - [ES6 Design Patterns](https://loredanacirstea.github.io/es6-design-patterns/) GoF Design Patterns in ES6+
 
 ### Creational
-Based on the concept of creating an object
-Creational | |
+
+Creational | Based on the concept of creating an object
 :--- :| --- |
 **Factory Method** | This makes an instance of several derived classes based on interfaced data or events
 **Abstract Factory** | Creates an instance of several families of classes without detailing concrete classes.

@@ -152,7 +152,7 @@ class Node{
 
 ### Creational
 Based on the concept of creating an object
-Creational | 
+Creational | |
 :--- :| --- |
 **Factory Method** | This makes an instance of several derived classes based on interfaced data or events
 **Abstract Factory** | Creates an instance of several families of classes without detailing concrete classes.

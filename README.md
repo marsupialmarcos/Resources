@@ -148,9 +148,10 @@ class Node{
 
 # Design Patterns
 - [Design Patterns, Elements of Reusable Object-Oriented Software.pdf](https://loredanacirstea.github.io/es6-design-patterns/) - The original GoF Design Patterns
+
 - [ES6 Design Patterns](https://loredanacirstea.github.io/es6-design-patterns/) - GoF Design Patterns in ES6+
 
-### Creational
+#### Creational
 
 Creational | Definition
 --- | --- |
@@ -160,7 +161,7 @@ Creational | Definition
 **Prototype** | A fully initialized instances used for copying or cloning.
 **Singleton** | A class with only a single instance with global access points.
 
-### Structural
+#### Structural
 Structural | Definition
 --- | --- |
 **Adapter** | Match interfaces of different classes therefore classes can work together despite incompatible interfaces.
@@ -170,7 +171,7 @@ Structural | Definition
 **Flyweight** | A fine-grained instance used for efficient sharing of information that is contained elsewhere.
 **Proxy** | A pace holder object representing the true object.
 
-### Behavioral
+#### Behavioral
 Behavioral | Definition
 ---|---|
 **Interpreter** | Away to include language elements in an application to match the grammar of the intended language.

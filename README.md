@@ -208,6 +208,8 @@ Behavioral | Definition
 
 - [Buggy Web App](http://www.itsecgames.com/) - Buggy Web App!
 
+- [XSS-Game](https://xss-game.appspot.com/) - Training program where you learn to find and exploit XSS bugs
+
 - [OWSAP](https://cheatsheetseries.owasp.org/) - Collection of high value info on specific app security topics created by various application security professionals with expertise in specific topics.
 
 - [OSCP Preparation Roadmap](https://security-prince.github.io/PWK-OSCP-Preparation-Roadmap/) - OSCP Prep
@@ -236,7 +238,7 @@ Behavioral | Definition
 
 - [Investments](https://github.com/marsupialmarcos/Resources/blob/master/Investments_11e_-_Zvi_Bodie.pdf-min.pdf)
 
-- []
+- []()
 
 - [Derivatives Analytics with Python Data Analysis, Models, Simulation, Calibration and Hedging](https://github.com/marsupialmarcos/Resources/blob/master/Yves%20Hilpisch%20-%20Derivatives%20Analytics%20with%20Python%20Data%20Analysis%2C%20Models%2C%20Simulation%2C%20Calibration%20and%20Hedging%20(Wiley%20Finance%20Series)%20-%202015.pdf)
 

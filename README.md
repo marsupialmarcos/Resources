@@ -210,6 +210,8 @@ Behavioral | Definition
 
 # Security
 
+- [Computer Security Fundamentals](https://github.com/marsupialmarcos/Resources/blob/master/Computer%20Security%20Fundamentals.pdf)
+
 - [Buggy Web App](http://www.itsecgames.com/) - Buggy Web App!
 
 - [XSS-Game](https://xss-game.appspot.com/) - Training program where you learn to find and exploit XSS bugs

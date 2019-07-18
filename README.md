@@ -163,6 +163,7 @@ Creational | Definition
 **Singleton** | A class with only a single instance with global access points.
 
 #### Structural
+
 Structural | Definition
 --- | --- |
 **Adapter** | Match interfaces of different classes therefore classes can work together despite incompatible interfaces.
@@ -173,6 +174,7 @@ Structural | Definition
 **Proxy** | A pace holder object representing the true object.
 
 #### Behavioral
+
 Behavioral | Definition
 ---|---|
 **Interpreter** | Away to include language elements in an application to match the grammar of the intended language.

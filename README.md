@@ -159,7 +159,7 @@ Builder - Separates object construction from its representation, always creates 
 Prototype - A fully initialized instance used for copying or cloning.
 Singleton - A class with only a single instance with global access points.
  	 	 	 	 	 	 	 
-#### Creational
+### Structural
 Based on the idea of building blocks of objects.
 
 Adapter	- Match interfaces of different classes therefore classes can work together despite incompatible interfaces.
@@ -170,10 +170,10 @@ Facade	- A single class that hides the complexity of an entire subsystem.
 Flyweight - A fine-grained instance used for efficient sharing of information that is contained elsewhere.
 Proxy - A place holder object representing the true object.
  
-#### Behavioral	  
+### Behavioral	  
 Based on the way objects play and work together.
       
-Interpreter	- A way to include language elements in an application to match the grammar of the intended language.
+*Interpreter* - A way to include language elements in an application to match the grammar of the intended language.
 Method	- Creates the shell of an algorithm in a method, then defer the exact steps to a subclass.
 Chain of Responsibility	- A way of passing a request between a chain of objects to find the object that can handle the request.
 Command	- Encapsulate a command request as an object to enable, logging and/or queuing of requests, and provides error-handling for unhandled requests.

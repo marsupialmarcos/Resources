@@ -188,7 +188,7 @@ class Node{
 
 - [Game Development](https://github.com/marsupialmarcos/Resources/blob/master/Building%20JavaScript%20Games%20for%20Phones%2C%20Tablets%2C%20and%20Desktop.pdf)
 
-# Data Science/AI/NeuralNetworks/ML/Deep Learning
+# Artificial Intelligence
 
 - [Neural Network Zoo](http://www.asimovinstitute.org/neural-network-zoo/) - Neural Networks and corresponding academic papers
 

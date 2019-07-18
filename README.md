@@ -153,12 +153,6 @@ class Node{
 ### Creational
 Based on the concept of creating an object.
 
-**Factory Method** - This makes an instance of several derived classes based on interfaced data or events.
-**Abstract Factory** - Creates an instance of several families of classes without detailing concrete classes.
-**Builder** - Separates object construction from its representation, always creates the same type of object.
-**Prototype** - A fully initialized instance used for copying or cloning.
-**Singleton** - A class with only a single instance with global access points.
-
 # Node.JS
 
 - [Node School](https://nodeschool.io/) - Open source workshops that teach web software skills. Do them on your own or at a workshop nearby.

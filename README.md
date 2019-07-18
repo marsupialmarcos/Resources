@@ -170,7 +170,7 @@ Structural | Definition
 **Flyweight** | A fine-grained instance used for efficient sharing of information that is contained elsewhere.
 **Proxy** | A pace holder object representing the true object.
 
-###Behavioral
+### Behavioral
 ---|---|
 **Interpreter** | Away to include language elements in an application to match the grammar of the intended language.
 **Template Method** | Creates the shell of an algorithm in a method, then defer the exact steps to a subclass
